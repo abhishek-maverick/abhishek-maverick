@@ -1,6 +1,5 @@
-![MasterHead](https://www.technoduce.com/images/mean/web-development.jpg)
-<h1 align="center">Hi 👋, I'm Abhishek Ranjan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="left">Hi 👋, I'm Abhishek Ranjan</h1>
+<h3 align="left">A passionate full stack developer from India</h3>
 
 <img
   align="center"
@@ -22,7 +21,7 @@
   <a href="https://twitter.com/abhii_ranjan" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg"
       alt="abhii_ranjan"
       height="30"
       width="40"
@@ -30,7 +29,7 @@
   <a href="https://linkedin.com/in/abhishek-ranjan-1809471aa" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"
       alt="abhishek-ranjan-1809471aa"
       height="30"
       width="40"
@@ -38,23 +37,19 @@
   <a href="https://instagram.com/abhishek.exe" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg"
       alt="abhishek.exe"
       height="30"
       width="40"
   /></a>
+</p>
+
+<h3 align="left">Profiles:</h3>
+<p align="left">
   <a href="https://www.codechef.com/users/abhii_ranjan" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="abhii_ranjan"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.hackerrank.com/abhii_ranjan" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      src="https://img.icons8.com/color/480/codechef.png"
       alt="abhii_ranjan"
       height="30"
       width="40"
@@ -62,29 +57,36 @@
   <a href="https://codeforces.com/profile/abhii_ranjan" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+      src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png"
       alt="abhii_ranjan"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.hackerrank.com/abhii_ranjan" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"
+      alt="abhii_ranjan"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://www.hackerearth.com/@abhishek8729n" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png"
+      alt="@abhishek8729"
       height="30"
       width="40"
   /></a>
   <a href="https://www.leetcode.com/abhii_ranjan" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png"
       alt="abhii_ranjan"
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerearth.com/@abhishek8729" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
-      alt="@abhishek8729"
-      height="30"
-      width="40"
-  /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -119,7 +121,11 @@
       height="40"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg"
       alt="javascript"
@@ -184,16 +190,6 @@
     />
   </a>
 
-
-
-
-
-
-
-
-
-  
-
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.svg"
@@ -211,7 +207,6 @@
     />
   </a>
 
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -220,7 +215,7 @@
       height="40"
     />
   </a>
-  
+
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -238,7 +233,6 @@
     />
   </a>
 
-
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
@@ -255,7 +249,7 @@
       height="40"
     />
   </a>
-  
+
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg"
@@ -264,7 +258,7 @@
       height="40"
     />
   </a>
-  
+
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
