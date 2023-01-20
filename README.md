@@ -87,25 +87,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.svg"
       alt="c"
       width="40"
       height="40"
@@ -113,24 +97,80 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.svg"
       alt="cplusplus"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-programming-language-icon.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/react-1.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/919/919825.png"
+      alt="nodejs"
       width="40"
       height="40"
     />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.svg"
       alt="express"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAlZFe8tWq6Ah0iBjTx0PJ2PUnjGRXpUH1oATQhyfOZ_dlPyfjE2NZc78OWVh14TZltc&usqp=CAU"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1foLzxRsJU5Nvm0_Oo8xdRbbc4KoQsws_kA&usqp=CAU"
+      alt="mysql"
       width="40"
       height="40"
     />
@@ -143,6 +183,44 @@
       height="40"
     />
   </a>
+
+
+
+
+
+
+
+
+
+  
+
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-4-icon.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -153,32 +231,14 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg"
       alt="html5"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
+
+
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
@@ -189,44 +249,22 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png"
       alt="linux"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg"
       alt="nextjs"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
+  
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -235,25 +273,9 @@
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png"
       alt="redux"
       width="40"
       height="40"
@@ -261,7 +283,7 @@
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"
       alt="sass"
       width="40"
       height="40"
@@ -269,16 +291,8 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.svg"
       alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
       width="40"
       height="40"
     />
