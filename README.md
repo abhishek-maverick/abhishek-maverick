@@ -159,7 +159,7 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.svg"
+      src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg"
       alt="express"
       width="40"
       height="40"
@@ -252,7 +252,7 @@
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg"
+      src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs"
       alt="nextjs"
       width="40"
       height="40"
@@ -296,7 +296,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-maverick&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-maverick&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="abhishek-maverick"
   />
 </p>
@@ -304,7 +304,8 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=abhishek-maverick&show_icons=true&locale=en"
+    background="black"
+    src="https://github-readme-stats.vercel.app/api?username=abhishek-maverick&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="abhishek-maverick"
   />
 </p>
@@ -312,7 +313,15 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-maverick&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-maverick&&layout=compact&theme=tokyonight"
+    alt="abhishek-maverick"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishek-maverick&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
     alt="abhishek-maverick"
   />
 </p>
