@@ -8,14 +8,6 @@
   src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47zblcwk0st52i99v7rgt49gzk7n8qppkd41jgsaaa&rid=200w.webp&ct=g"
 />
 
-<p align="left">
-  <a href="https://twitter.com/abhii_ranjan" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/abhii_ranjan?logo=twitter&style=for-the-badge"
-      alt="abhii_ranjan"
-  /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/abhii_ranjan" target="blank"
