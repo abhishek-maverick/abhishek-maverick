@@ -1,10 +1,17 @@
 <h1 align="left">Hi 👋, I'm Abhishek Ranjan</h1>
 <h3 align="left">A passionate full stack developer from India</h3>
+<img
+  align="left"
+  alt="Avatar"
+  width="400"
+  src="https://i.stack.imgur.com/2UUb4.png?s=192&g=1"
+/>
 
 <img
   align="center"
   alt="Coding"
   width="400"
+     height="400"
   src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47zblcwk0st52i99v7rgt49gzk7n8qppkd41jgsaaa&rid=200w.webp&ct=g"
 />
 
