@@ -69,7 +69,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerearth.com/@abhishek8729n" target="blank"
+  <a href="https://www.hackerearth.com/@abhishek8729" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png"
