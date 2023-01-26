@@ -292,13 +292,13 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-maverick&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="abhishek-maverick"
   />
-</p>
+</p> -->
 
 <p>
   &nbsp;<img
