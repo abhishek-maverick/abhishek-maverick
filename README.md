@@ -17,19 +17,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/abhii_ranjan" target="blank"
-    ><img
-      align="center"
-      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg"
-      alt="abhii_ranjan"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://linkedin.com/in/abhishek-ranjan-1809471aa" target="blank"
     ><img
       align="center"
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"
       alt="abhishek-ranjan-1809471aa"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://twitter.com/abhii_ranjan" target="blank"
+    ><img
+      align="center"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/twitter-app-icon.svg"
+      alt="abhii_ranjan"
       height="30"
       width="40"
   /></a>
