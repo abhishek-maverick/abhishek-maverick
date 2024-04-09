@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/abhishek-ranjan-1809471aa" target="blank"
+  <a href="https://www.linkedin.com/in/abhishek-ranjan-dev" target="blank"
     ><img
       align="center"
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"
