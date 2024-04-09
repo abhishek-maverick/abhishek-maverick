@@ -300,27 +300,19 @@
   />
 </p> -->
 
-<p>
+<!--<p>
   &nbsp;<img
     align="center"
     background="black"
     src="https://github-readme-stats.vercel.app/api?username=abhishek-maverick&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="abhishek-maverick"
   />
-</p>
+</p> -->
 
 <p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-maverick&&layout=compact&theme=tokyonight"
-    alt="abhishek-maverick"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishek-maverick&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
     alt="abhishek-maverick"
   />
 </p>
